@@ -1,0 +1,26 @@
+version: '3.3'
+volumes:
+  datafiles:
+services:
+  mysql:
+    image: mysql:8.0.28
+    container_name: mysql8
+    environment:
+      - MYSQL_ROOT_PASSWORD=Vladimir1.
+    restart: always
+    volumes:
+      - datafiles:/var/lib/mysql
+      - ./script.sql:/docker-entrypoint-initdb.d/01.sql
+    ports:
+      - 33080:3306
+
+  website:
+    container_name: php73
+    image: bookstore
+    environment:
+      - MYSQL_DBHOST=mysql
+      - MYSQL_DBPASS=Vladimir1.
+    ports:
+      - 8080:80
+    depends_on:
+      - mysql

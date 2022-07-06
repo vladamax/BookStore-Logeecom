@@ -1,0 +1,82 @@
+
+body{
+    text-align: center;
+}
+
+.lastTableRow{
+    background: none;
+    text-align: left;
+    width: 20px;
+    alignment: left;
+}
+
+.imgAvat{
+    alignment: left ;
+}
+
+.createForm{
+    text-align: center;
+}
+
+.addBtn{
+
+    vertical-align: bottom;
+    width: 20px;
+}
+
+.addValBtn{
+    color: cornflowerblue;
+    background-color: cornflowerblue;
+}
+
+.delBtn{
+    vertical-align: bottom;
+    width: 20px;
+}
+
+.editBtn{
+    vertical-align: bottom;
+}
+
+thead{
+    text-align: center;
+}
+
+.gapCell{
+    border: gray;
+    background: gray;
+}
+
+.deleteDialogBtn{
+    background: royalblue;
+}
+
+.table1{
+    background: Orange;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    background: gray ;
+    height:10px;
+}
+
+
+.titleTd{
+    text-align: left;
+    width: 200px;
+}
+
+.numberOfBooksCell{
+    alignment: center;
+    text-align: center;
+}
+
+.titleBtn {
+    border: none;
+    background-color: rosybrown;
+    cursor: pointer;
+    display: inline-block;
+    text-align: left;
+}

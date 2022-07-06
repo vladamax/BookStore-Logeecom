@@ -1,0 +1,20 @@
+{
+  "authors": [
+    {
+      "name": "vladimir",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.1",
+    "ext-pdo": "*",
+    "ext-json": "*",
+    "ext-mysqli": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "BookStore\\" : "Src/"
+    }
+  }
+
+}

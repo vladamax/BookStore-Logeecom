@@ -1,0 +1,203 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b9564f75-7c2f-4131-9673-183dd464bf9f\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/Dockerfile\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/Src/Business/Models/Book.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Business/AuthorService.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Business/AuthorService.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Business/BookService.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Business/BookService.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IAuthorRepository.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IAuthorRepository.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IBookRepository.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IBookRepository.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/DataAccess/DBAuthorRepository.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/DataAccess/DBAuthorRepository.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/DataAccess/DBBookRepository.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/DataAccess/DBBookRepository.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/DataAccess/SessionAuthorRepository.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/DataAccess/SessionAuthorRepository.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/DataAccess/SessionBookRepository.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/DataAccess/SessionBookRepository.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Controllers/AuthorController.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Controllers/BookController.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Models/Author.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Business/Models/Author.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Models/Book.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Views/BookList.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Views/CreateAuthorRedirect.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Views/CreateBookPage.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Views/EditAuthorView.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Presentation/Views/EditAuthorView.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Views/EditBookView.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Presentation/Views/EditBookView.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Presentation/Views/List.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Routes/BookIndex.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Routes/BookIndex.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Routes/CreateAuthor.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Routes/CreateAuthor.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Routes/CreateBook.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Routes/CreateBook.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Routes/DeleteAuthor.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Routes/DeleteAuthor.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Routes/DeleteBook.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Routes/DeleteBook.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Routes/EditAuthor.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Routes/EditAuthor.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Routes/EditBook.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/Routes/EditBook.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Validations/CreateAuthorValidation.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Validations/CreateBookValidation.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Validations/EditAuthorValidation.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/Validations/EditBookValidation.php\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Src/mySqlConnect.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Src/mySqlConnect.php\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/composer.lock\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/index.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.php\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ComposerSettings\" doNotAsk=\"true\" synchronizationState=\"DONT_SYNCHRONIZE\">\n    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>\n    <execution>\n      <executable path=\"composer\" />\n    </execution>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTML File\" />\n        <option value=\"composer.json\" />\n        <option value=\"JavaScript File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitSEFilterConfiguration\">\n    <file-type-list>\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\n      <filtered-out-file-type name=\"TAG\" />\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\n    </file-type-list>\n  </component>\n  <component name=\"JsBowerSettings\">\n    <bower-package value=\"\" />\n    <bower.json value=\"\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"PhpDebugGeneral\" ignore_connections_through_unregistered_servers=\"true\" listening_started=\"true\" />\n  <component name=\"PhpServers\">\n    <servers>\n      <server host=\"bookstore.test\" id=\"2d4cae47-9350-45cd-8baa-4af84db401e2\" name=\"bookstore.test\" />\n    </servers>\n  </component>\n  <component name=\"PhpWebServerValidation\" path_to_validation_script=\"$PROJECT_DIR$\" selected_validation_type=\"LOCAL\" web_path_to_validation_script=\"http://bookstore.test\" />\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"PHP 7.4\">\n    <include_path>\n      <path value=\"$PROJECT_DIR$/vendor/composer\" />\n    </include_path>\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedTabId\" value=\"CurrentFile\" />\n  </component>\n  <component name=\"ProjectId\" id=\"26EwQLT3zEp9Ifn8MWnWzZej04W\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\n    <property name=\"Constants\" value=\"false\" />\n    <property name=\"DatabaseDriversLRU\" value=\"mysql\" />\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/Src/PresentationSPA\" />\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\n    <property name=\"node.js.detected.package.stylelint\" value=\"true\" />\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\n    <property name=\"node.js.selected.package.stylelint\" value=\"\" />\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"php.override.implement.member.chooser.php.doc\" value=\"NONE\" />\n    <property name=\"run.code.analysis.last.selected.profile\" value=\"pProject Default\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"Docker\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/Src/PresentationSPA\" />\n      <recent name=\"$PROJECT_DIR$/Src/Presentation/Views\" />\n      <recent name=\"$PROJECT_DIR$/Src/PresentationSPA/Controllers\" />\n      <recent name=\"$PROJECT_DIR$/Src/Presentation/Controllers\" />\n      <recent name=\"$PROJECT_DIR$/Business\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/Src/PresentationSPA\" />\n      <recent name=\"$PROJECT_DIR$/Src/Business\" />\n      <recent name=\"$PROJECT_DIR$/Src\" />\n      <recent name=\"$PROJECT_DIR$/DataAccess\" />\n      <recent name=\"$PROJECT_DIR$/Presentation\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"bookstore.test\" type=\"PhpWebAppRunConfigurationType\" factoryName=\"PHP Web Application\" server_name=\"bookstore.test\">\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"b9564f75-7c2f-4131-9673-183dd464bf9f\" name=\"Changes\" comment=\"\" />\n      <created>1647002035467</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1647002035467</updated>\n      <workItem from=\"1647002036537\" duration=\"48000\" />\n      <workItem from=\"1647003968349\" duration=\"2533000\" />\n      <workItem from=\"1647245314370\" duration=\"4895000\" />\n      <workItem from=\"1647251657977\" duration=\"976000\" />\n      <workItem from=\"1647252644260\" duration=\"97000\" />\n      <workItem from=\"1647252751676\" duration=\"17827000\" />\n      <workItem from=\"1647334553532\" duration=\"24077000\" />\n      <workItem from=\"1647415853815\" duration=\"41457000\" />\n      <workItem from=\"1647504404567\" duration=\"17463000\" />\n      <workItem from=\"1647593370699\" duration=\"620000\" />\n      <workItem from=\"1647609650547\" duration=\"4033000\" />\n      <workItem from=\"1647613695579\" duration=\"8158000\" />\n      <workItem from=\"1647850311302\" duration=\"19085000\" />\n      <workItem from=\"1647940575416\" duration=\"8481000\" />\n      <workItem from=\"1648024374028\" duration=\"215000\" />\n      <workItem from=\"1648024599842\" duration=\"226000\" />\n      <workItem from=\"1648025743489\" duration=\"2868000\" />\n      <workItem from=\"1648032007901\" duration=\"16785000\" />\n      <workItem from=\"1648052065399\" duration=\"8106000\" />\n      <workItem from=\"1648109920410\" duration=\"7059000\" />\n      <workItem from=\"1648118942325\" duration=\"17819000\" />\n      <workItem from=\"1648198191374\" duration=\"21421000\" />\n      <workItem from=\"1648452591731\" duration=\"21391000\" />\n      <workItem from=\"1648540207046\" duration=\"29873000\" />\n      <workItem from=\"1648624269064\" duration=\"22991000\" />\n      <workItem from=\"1648710698818\" duration=\"27785000\" />\n      <workItem from=\"1648798122327\" duration=\"25134000\" />\n      <workItem from=\"1649056746605\" duration=\"26416000\" />\n      <workItem from=\"1649142283475\" duration=\"24374000\" />\n      <workItem from=\"1649229739556\" duration=\"16879000\" />\n      <workItem from=\"1649251649064\" duration=\"3607000\" />\n      <workItem from=\"1649317477239\" duration=\"6775000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <watches-manager>\n      <configuration name=\"EditAuthorView.php\">\n        <watch expression=\"$_SESSION\" />\n      </configuration>\n    </watches-manager>\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand>\n      <path>\n        <item name=\"BookStore\" type=\"b2602c69:ProjectViewProjectNode\" />\n        <item name=\"BookStore\" type=\"462c0819:PsiDirectoryNode\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision eeb1824959cfa3342356da3205cd941578478457)
++++ b/.idea/workspace.xml	(date 1649414051681)
+@@ -4,42 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b9564f75-7c2f-4131-9673-183dd464bf9f" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Src/Business/Models/Book.php" afterDir="false" />
++    <list default="true" id="b9564f75-7c2f-4131-9673-183dd464bf9f" name="Changes" comment="first change towards the final product">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Business/AuthorService.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Business/AuthorService.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Business/BookService.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Business/BookService.php" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IAuthorRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IAuthorRepository.php" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IBookRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Business/Interfaces/Repositories/IBookRepository.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/DataAccess/DBAuthorRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/DataAccess/DBAuthorRepository.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/DataAccess/DBBookRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/DataAccess/DBBookRepository.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/DataAccess/SessionAuthorRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/DataAccess/SessionAuthorRepository.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/DataAccess/SessionBookRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/DataAccess/SessionBookRepository.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Controllers/AuthorController.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Controllers/BookController.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Models/Author.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Business/Models/Author.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Models/Book.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Views/BookList.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Views/CreateAuthorRedirect.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Views/CreateBookPage.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Views/EditAuthorView.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Presentation/Views/EditAuthorView.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Views/EditBookView.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Presentation/Views/EditBookView.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Presentation/Views/List.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Routes/BookIndex.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Routes/BookIndex.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Routes/CreateAuthor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Routes/CreateAuthor.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Routes/CreateBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Routes/CreateBook.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Routes/DeleteAuthor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Routes/DeleteAuthor.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Routes/DeleteBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Routes/DeleteBook.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Routes/EditAuthor.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Routes/EditAuthor.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Routes/EditBook.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/Routes/EditBook.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Validations/CreateAuthorValidation.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Validations/CreateBookValidation.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Validations/EditAuthorValidation.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/Validations/EditBookValidation.php" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Src/mySqlConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/Src/mySqlConnect.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -186,6 +154,31 @@
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.History.Properties">
++    <option name="COLUMN_ID_ORDER">
++      <list>
++        <option value="Default.Root" />
++        <option value="Default.Author" />
++        <option value="Default.Date" />
++        <option value="Default.Subject" />
++      </list>
++    </option>
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="first change towards the final product" />
++    <option name="LAST_COMMIT_MESSAGE" value="first change towards the final product" />
+   </component>
+   <component name="XDebuggerManager">
+     <watches-manager>
+Index: Src/Business/Interfaces/Repositories/IAuthorRepository.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\n\nnamespace BookStore\\Business\\Interfaces\\Repositories;\n\nuse BookStore\\Presentation\\Models\\Author;\ninterface IAuthorRepository\n{\n    /**\n     * Retrieves all authors.\n     *\n     * @return Author[]\n     */\n    public function loadTheData() : array;\n\n\n    /** Inserts a new author to the existing array of authors\n     * @param string $firstName\n     * @param string $lastName\n     * @return mixed\n     */\n    public function insert(string $firstName,string $lastName);\n\n    /**\n     * Delete an author from the existing array of authors\n     * @param int $id\n     * @return mixed\n     */\n    public function delete(int $id);\n\n\n    /**\n     * Updates an existing author in the existing array of authors\n     * @param string $firstNameUpdated\n     * @param string $lastNameUpdated\n     * @param int $id\n     * @return mixed\n     */\n    public function update(string $firstNameUpdated, string $lastNameUpdated,int $id);\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Src/Business/Interfaces/Repositories/IAuthorRepository.php b/Src/Business/Interfaces/Repositories/IAuthorRepository.php
+--- a/Src/Business/Interfaces/Repositories/IAuthorRepository.php	(revision eeb1824959cfa3342356da3205cd941578478457)
++++ b/Src/Business/Interfaces/Repositories/IAuthorRepository.php	(date 1649339453304)
+@@ -2,18 +2,17 @@
+ 
+ namespace BookStore\Business\Interfaces\Repositories;
+ 
+-use BookStore\Presentation\Models\Author;
+ interface IAuthorRepository
+ {
+     /**
+      * Retrieves all authors.
+      *
+-     * @return Author[]
++     * @return array
+      */
+     public function loadTheData() : array;
+ 
+ 
+-    /** Inserts a new author to the existing array of authors
++    /** Inserts a new author to the database
+      * @param string $firstName
+      * @param string $lastName
+      * @return mixed
+@@ -21,7 +20,7 @@
+     public function insert(string $firstName,string $lastName);
+ 
+     /**
+-     * Delete an author from the existing array of authors
++     * Deletes an author from the database
+      * @param int $id
+      * @return mixed
+      */
+@@ -29,7 +28,7 @@
+ 
+ 
+     /**
+-     * Updates an existing author in the existing array of authors
++     * Updates an existing author in the database
+      * @param string $firstNameUpdated
+      * @param string $lastNameUpdated
+      * @param int $id
+Index: Src/Business/Interfaces/Repositories/IBookRepository.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\n\nnamespace BookStore\\Business\\Interfaces\\Repositories;\n\nuse BookStore\\Business\\Models\\Book;\n\ninterface IBookRepository\n{\n\n    /**\n     * Initializes a session and fills a book array with mock objects that will be used as test data\n     * @return mixed\n     */\n    public function loadTheData(int $id);\n\n    /**\n     * Insert a new book to the existing array of books\n     * @param string $name\n     * @return mixed\n     */\n    public function insert(string $name, int $year, int $id);\n\n    /**\n     * Deletes a book from the existing array of books\n     * @param int $id\n     * @return mixed\n     */\n    public function delete(int $id);\n\n    /**\n     * Updates an existing book in the existing array of books\n     * @param string $nameUpdated\n     * @param int $id\n     * @return mixed\n     */\n    public function update(string $nameUpdated, int $year, int $id);\n\n    public function findById(int $id): Book;\n\n    }
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Src/Business/Interfaces/Repositories/IBookRepository.php b/Src/Business/Interfaces/Repositories/IBookRepository.php
+--- a/Src/Business/Interfaces/Repositories/IBookRepository.php	(revision eeb1824959cfa3342356da3205cd941578478457)
++++ b/Src/Business/Interfaces/Repositories/IBookRepository.php	(date 1649340094349)
+@@ -6,35 +6,43 @@
+ 
+ interface IBookRepository
+ {
+-
+     /**
+      * Initializes a session and fills a book array with mock objects that will be used as test data
++     * @param int $authorId
+      * @return mixed
+      */
+-    public function loadTheData(int $id);
++    public function loadTheData(int $authorId);
+ 
+     /**
+-     * Insert a new book to the existing array of books
+-     * @param string $name
++     * Inserts a new book to the database
++     * @param string $title
++     * @param int $year
++     * @param int $authorId
+      * @return mixed
+      */
+-    public function insert(string $name, int $year, int $id);
++    public function insert(string $title, int $year, int $authorId);
+ 
+     /**
+-     * Deletes a book from the existing array of books
+-     * @param int $id
++     * Deletes a book from the database
++     * @param int $bookId
+      * @return mixed
+      */
+-    public function delete(int $id);
++    public function delete(int $bookId);
+ 
+     /**
+-     * Updates an existing book in the existing array of books
+-     * @param string $nameUpdated
+-     * @param int $id
++     * Updates an existing book in the database
++     * @param string $titleUpdated
++     * @param int $year
++     * @param int $bookId
+      * @return mixed
+      */
+-    public function update(string $nameUpdated, int $year, int $id);
++    public function update(string $titleUpdated, int $year, int $bookId);
+ 
+-    public function findById(int $id): Book;
++
++    /**
++     * @param int $bookId
++     * @return Book
++     */
++    public function findById(int $bookId): Book;
+ 
+     }
+\ No newline at end of file
